@@ -1,0 +1,2 @@
+Deutsch / German language: Dieser Code darf nicht verändert werden. Ausgenommen sind dabei Pull Request und Forks. Aber auch dabei müssen die Nachrichten, die werbung für DSL TRANS machen, erhalten bleiben.
+Englisch /English language:You´re not allow to modify this code. Forks are allowed, if you don´t change the messages with ads for DSL TRANS.
